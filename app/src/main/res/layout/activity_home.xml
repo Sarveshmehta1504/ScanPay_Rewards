@@ -142,7 +142,7 @@
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="16dp"
                 android:contentDescription="App Logo"
-                app:srcCompat="@drawable/img" />
+                app:srcCompat="@drawable/pywize_logo" />
 <!--                app:tint="?android:textColorPrimary"-->
 
 
@@ -152,10 +152,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/imageView3"
-                android:layout_marginTop="16dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginStart="16dp"
                 android:layout_marginEnd="16dp"
-                android:text="Welcome to ScanPay Rewards"
+                android:text="Welcome to Paywize"
                 android:gravity="center"
                 android:textAlignment="center"
                 android:textSize="24sp"
